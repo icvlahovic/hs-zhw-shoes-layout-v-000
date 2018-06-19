@@ -34,9 +34,3 @@
   float: left;
   width: 64%;
 }
-
-.column-3 {
-  float: right;
-  width: 32%;
-  margin: 0 15px auto;
-}
